@@ -58,15 +58,15 @@ Este GitHub é o espaço onde compartilho minha evolução, estudos e projetos p
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Minha jornada por aqui
 
-<div align="center">
+Este perfil está sendo construído junto com a minha evolução em tecnologia.
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=elisreginavieiravital&show_icons=true&theme=tokyonight"/>
+Aqui você encontrará projetos desenvolvidos durante a graduação em 
+**Análise e Desenvolvimento de Sistemas**, estudos independentes e 
+experimentos que conectam tecnologia, dados, processos e negócios.
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisreginavieiravital&layout=compact&theme=tokyonight"/>
-
-</div>
+📌 Cada repositório representa um pouco do que estou aprendendo e construindo.
 
 ---
 
